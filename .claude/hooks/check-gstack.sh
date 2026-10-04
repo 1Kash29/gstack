@@ -17,7 +17,7 @@ BLOCKED: gstack is not installed globally.
 gstack is required for AI-assisted work in this repo.
 
 Install it:
-  git clone --depth 1 https://github.com/garrytan/gstack.git ~/.claude/skills/gstack
+  git clone --depth 1 https://github.com/1Kash29/gstack.git ~/.claude/skills/gstack
   cd ~/.claude/skills/gstack && ./setup --team
 
 Then restart your AI coding tool.
